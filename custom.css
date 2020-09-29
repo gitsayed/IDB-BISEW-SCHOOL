@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+.hdiv_name {text-align: center;
+				 color: darkslategray;
+				 float: left;
+				 font-size:70px;
+				 
+			}
+body { background-color:coral ;
+	
+}
+
+
+.hdiv_register {text-align: right;
+				 color:black;
+				 float:right;
+				 font-size:15px;
+				 margin-bottom: 5px;
+				 margin-left: 0px ;
+				 padding-left: 10px;
+					 padding-top: 5px
+				 
+			}
+
+.div_middle_column {  	border: 3px solid green;
+						height: 3000px;
+						background-color: burlywood
+					
+						}
+
+.div-1st-col    { background: #D9EDF7; 
+				  height:    3000px;
+					
+					}
+
+
+.div-3d-col     { background:grey;
+					height: 3000px;
+
+
+					}
+
+.div-ul {   font-size:14px;
+			color: #2F4F4F7;
+			
+				}
